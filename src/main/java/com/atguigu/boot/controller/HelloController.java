@@ -13,6 +13,7 @@ public class HelloController {
     public String handle01(){
         System.out.println("hello world");
         System.out.println("hello world2");
+        System.out.println("hot-fix test");
         return "hello,spring boot 2";
     }
 }
